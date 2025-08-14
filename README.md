@@ -12,8 +12,8 @@ The system is user-friendly, menu-driven, and includes **input validation** to m
 
 ## ⚙️ Tech Stack
 - **Language:** C++  
-- **Environment:** Console-based application (no GUI)  
-- **IDE / Compiler:** Any C++ compiler supporting C++11 or later (e.g., Code::Blocks, Dev-C++, g++, Visual Studio)  
+- **Environment:** Console-based Application
+- **IDE / Compiler Used:** Visual Studio 2022  
 
 ---
 
@@ -51,5 +51,4 @@ FamousBookstore/
 │
 ├── main.cpp          # Entry point with menu system
 ├── functions.cpp     # Core functions for ordering, reporting, etc.
-├── functions.h       # Function prototypes
-└── data.txt          # Initial book data (if applicable)
+└── functions.h       # Function prototypes
