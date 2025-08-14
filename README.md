@@ -10,13 +10,6 @@ The system is user-friendly, menu-driven, and includes **input validation** to m
 
 ---
 
-## ⚙️ Tech Stack
-- **Language:** C++  
-- **Environment:** Console-based Application
-- **IDE / Compiler Used:** Visual Studio 2022  
-
----
-
 ## ✨ Features
 ### Common Features (Staff & Manager)
 - **Book Ordering**
