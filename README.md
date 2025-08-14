@@ -1,10 +1,10 @@
-# "Famous" Bookstore Ordering System
+# "Famous" Bookstore Managemenet System
 
 > **Disclaimer:** This system is a fictional project developed for academic purposes.  
 > The bookstore, names, and data used are entirely made up and do not represent any real business.
 
 ## 📖 Overview
-The **"Famous" Bookstore Ordering System** is a C++ console-based application designed to simulate the order placement process in a bookstore. It supports **role-based access** for both staff and managers, allowing efficient handling of customer orders, inventory management, and sales reporting.
+The **"Famous" Bookstore Management System** is a C++ console-based application designed to simulate the order placement process in a bookstore. It supports **role-based access** for both staff and managers, allowing efficient handling of customer orders & payment, and sales & inventory reporting.
 
 The system is user-friendly, menu-driven, and includes **input validation** to minimize errors during transactions.
 
@@ -26,7 +26,7 @@ The system is user-friendly, menu-driven, and includes **input validation** to m
   - Order confirmation before payment.
 
 - **Payment Processing**
-  - Supports Cash, Debit Card, Credit Card, and E-wallet.
+  - Supports Cash, Debit Card, Credit Card, and E-wallet. (Fictional Money)
   - Calculates change automatically.
   - Displays an on-screen receipt.
 
@@ -35,13 +35,7 @@ The system is user-friendly, menu-driven, and includes **input validation** to m
 - **Reports**
   - **Daily Sales Report**
   - **Best & Worst Genre Sales Report**
-  - **Stock Report** (shows books left in inventory)
-
-### Additional Highlights
-- **Role-Based Access Control**
-- **Organized Inventory Table**
-- **Real-Time Report Updates**
-- **Input Validation for all Menus**
+  - **Stock Report**
 
 ---
 
